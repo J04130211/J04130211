@@ -1,4 +1,5 @@
 ## Oii! Eu sou o João!🏳️‍🌈
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/951cec38-7e6d-40e7-ad1f-559cb8278d05" />
 
 📚Cursando Análise e Desenvolvimento de Sistemas.
 <br>🐧Entusiasta de Software Livre.
