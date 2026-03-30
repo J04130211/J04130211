@@ -18,4 +18,5 @@
 
 <div>
   <a href = "mailto:contato.overtly089@passinbox.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href = "https://mastodon.social/@J0413"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"></a>
 </div>
