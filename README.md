@@ -5,13 +5,13 @@
 <br>🐧Entusiasta de Software Livre.
 ---
 <div>
-  <img align="center" alt="J-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <br> <img align="center" alt="J-cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+ <br> <img align="center" alt="J-Mdb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg">
+ <br> <img align="center" alt="J-Deb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
+ <br> <img align="center" alt="J-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="J-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="J-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="J-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="J-cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="J-Mdb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg">
-  <img align="center" alt="J-Deb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
-  <img align="center" alt="J-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
 
 ---
